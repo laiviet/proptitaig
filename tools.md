@@ -1,24 +1,25 @@
 ## Operating system
 
 Ubuntu 16.04
+> http://mirrors.nhanhoa.com/ubuntu-releases/16.04/
 
 ## Programing Language 
 
-### Python 2.7 (Anaconda 2)
+Python 2.7 (Anaconda 2)
 > https://repo.continuum.io/archive/.winzip/
 
-### Octave (Gần giống matlab)
+Octave (Gần giống matlab)
 > https://ftp.gnu.org/gnu/octave/windows/
 
 
 ## Library
 
-### Numpy
+Numpy
 > pip install numpy
 
 > https://docs.scipy.org/doc/numpy/reference/
 
-### Matplotlib
+Matplotlib
 > pip install matplotlib
 
 > https://matplotlib.org/examples/
