@@ -10,3 +10,15 @@ Ubuntu 16.04
 ### Octave (Gần giống matlab)
 > https://ftp.gnu.org/gnu/octave/windows/
 
+
+## Library
+
+### Numpy
+> pip install numpy
+> https://docs.scipy.org/doc/numpy/reference/
+
+### Matplotlib
+> pip install matplotlib
+> https://matplotlib.org/examples/
+
+
