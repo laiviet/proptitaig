@@ -2,7 +2,10 @@
 
 [Tutorial & checklist](https://github.com/laiviet/proptitaig/blob/master/python-tutorials/python-basic.md)
 
-## Numpy
+## Linear algebra reviews
+[Check list](https://github.com/laiviet/proptitaig/blob/master/python-tutorials/linear-algebra.md)
+
+## Numpy library
 
 ## Matplotlib
 
