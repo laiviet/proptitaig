@@ -36,7 +36,12 @@
   - Transpose
   - Inverse
   
-- Partial derivative (đạo hàm từng phần)
+- Partial derivative
+
+- Useful non-linear function
+  - Tanh
+  - Sigmoid <- very important
+  - Softmax <- very important
  
 # Useful english - vietnamese terms
 
