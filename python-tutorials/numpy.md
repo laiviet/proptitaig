@@ -2,7 +2,7 @@
 - array vs ndarray
 - axis
 - dtype
-- indexing system
+- indexing system, indices
 
 # Vector, matrix creation
 Create following matrix at any dimensions and rank of (1, 2, 3).
@@ -21,6 +21,10 @@ Print following info of a matrix
 - Size
 - Dtype
 
+# Indexing & Iteration
+- Access/get elements from a list of indices
+- Access/get elements from a list of mutiple-dimension indices
+
 # Matrix transformation
 - Transpose a matrix
 - Reshape a matrix
@@ -38,6 +42,7 @@ Perform following operation with ``difference axis``
 - round
 - sort
 
+
 # Linear operation
 - Addition fucntion
 - Scala multiplication
@@ -45,6 +50,7 @@ Perform following operation with ``difference axis``
 - Element-wise product
 - Transpose
 - Inverse
+- Trace
 
 # Non-linear operation
 - Sin, cosin, tanh
