@@ -1,6 +1,16 @@
 # Mathematics review [(materials)](http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 
-- Scalar, Vector, Matrix (2D, 3D).
+- Structure
+  - Scalar
+  - Vector
+  - Matrix (2D, 3D).
+
+- Special vectors and matrices:
+  - Zeros
+  - Ones
+  - Square
+  - Diagonal
+  - Identity matrix (unit matrix) - I (sometimes: eye)
 
 - Dimension, rank
 
