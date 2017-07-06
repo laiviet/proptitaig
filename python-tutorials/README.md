@@ -7,6 +7,7 @@
 
 ## Numpy library
 [Quick start](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+
 [Check list](https://github.com/laiviet/proptitaig/blob/master/python-tutorials/numpy.md)
 
 ## Matplotlib
