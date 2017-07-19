@@ -3,7 +3,7 @@
 - Line graph
 - Bar chart
 - Pie chart
-- Multiple graph
+- Mixed graph
 
 # Understanding graph and chart
 
